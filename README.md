@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Estudio desarrollo de software en la EPN
+- 🌱 Tengo 19 años
+- 👯 Vivo al sur de Quito
+- 🤔 Estoy interesada en trabajar en front end y AI
+
 <!--
 **Salo-Quispe/Salo-Quispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
